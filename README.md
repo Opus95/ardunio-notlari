@@ -1,6 +1,8 @@
-Arduino IDE Üzerinden Yapılan Bir Radar Projesi.
+⚡ Radarinho
 
-Bileşenler:
+🚀 Arduino IDE Üzerinden Yapılan Bir Radar Projesi.
+
+🛠️ Bileşenler:
 
 Arduino Uno (Veya Herhangi Bir Mikrokontrolcü).
 
@@ -14,7 +16,7 @@ Arduino Uno (Veya Herhangi Bir Mikrokontrolcü).
 
 HC-SR04 Ultrasonik Mesafe Sensörü
 
-Devre Şeması ve Bağlantılar:
+⚙️ Devre Şeması ve Bağlantılar:
 
 1-HC-SR04:
 
@@ -49,14 +51,14 @@ SCL: Arduino A5
 Artı (+): Pin 8
 Eksi (-): GND
 
-5-Kurulum ve Çalıştırma:
+💻 Kurulum ve Çalıştırma:
 
 Yukarıdaki "Devre Şeması ve Bağlantılar" Kısmını Doğru Bir Şekilde Yerleştirin.
 
 Servo.h,
 LiquidCrystal_I2C.h,
 Wire.h,
-Kütüphanelerin Yüklü Olduğundan Emin Olun.
+Kütüphanelerinin Yüklü Olduğundan Emin Olun.
 
 
 
