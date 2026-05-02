@@ -1,8 +1,10 @@
-⚡ Radarinho
+⚡  Arduino IDE Üzerinden Yapılan Bir Radar Projesi.
 
-🚀 Arduino IDE Üzerinden Yapılan Bir Radar Projesi.
+
 
 🛠️ Bileşenler:
+
+
 
 Arduino Uno (Veya Herhangi Bir Mikrokontrolcü).
 
