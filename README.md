@@ -5,7 +5,6 @@
 🛠️ Bileşenler:
 
 
-
 Arduino Uno (Veya Herhangi Bir Mikrokontrolcü).
 
 -I2C LCD Ekran
@@ -61,6 +60,10 @@ Servo.h,
 LiquidCrystal_I2C.h,
 Wire.h,
 Kütüphanelerinin Yüklü Olduğundan Emin Olun.
+
+🖥️ Kullanılan Teknolojiler:
+
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
 
